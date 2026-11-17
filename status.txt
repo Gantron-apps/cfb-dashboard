@@ -1,0 +1,7 @@
+{
+ "running": true,
+ "started": "2026-11-17T18:02:57Z",
+ "eta": "2026-11-17T18:12:15Z",
+ "finished": null,
+ "run": null
+}
